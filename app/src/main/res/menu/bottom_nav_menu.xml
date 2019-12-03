@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/music_hall"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="音乐馆" />
+
+    <item
+        android:id="@+id/recommend"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="推荐" />
+
+    <item
+        android:id="@+id/dynamic_zone"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="动态" />
+
+    <item
+        android:id="@+id/me"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="我的" />
+
+</menu>
